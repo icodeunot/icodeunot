@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Johnny Salazar and I have been coding since 2020. My professional experience ranges from leading crews as a union ironworker, to preparing US individual taxes for high net-worth clients at one of the biggest companies on earth.
+
+### I am currently looking for my first professional role as a software developer. Please have a look at my various repositories, or see my [PORTFOLIO SITE] for my consulting projects.
 
 <!--
 **icodeunot/icodeunot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
