@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Johnny Salazar and I have been coding since 2020. I graduated in 2024 from Western Governors University with a bachelor's in Software Development and a discipline in Java. Please have a look at my various repositories, or see my [Portfolio Site](https://jsal.dev) for my consulting projects.
+### Hi there 👋 My name is Johnny Salazar and I have been coding since 2020. I graduated in 2024 from Western Governors University with a bachelor's in Software Development and a discipline in Java. Please have a look at my various repositories, or see my [Portfolio Site](https://jsal.dev) for my unnecessary blog.
 
 <!--
 **icodeunot/icodeunot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
